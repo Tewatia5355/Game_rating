@@ -1,0 +1,30 @@
+<!-- reference for this page is from :https://freefrontend.com/css-forms/ -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home Page</title>
+  </head>
+  <body>
+    <div class="login-box">
+      <h2>Game Rating Prediction</h2>
+      <form id="main_form" action="/predict" method="GET">
+        <div class="user-box">
+          <input type="text" name="review" required="" />
+          <label>Enter Review:</label>
+        </div>
+        <a
+          href="javascript:{}"
+          onclick="document.getElementById('main_form').submit();"
+        >
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Prediction <label>{{ prediction_text }}</label>
+        </a>
+      </form>
+    </div>
+    <br />
+    <br />
+  </body>
+</html>
