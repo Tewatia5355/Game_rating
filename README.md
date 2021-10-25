@@ -1,4 +1,4 @@
-# Customer Review Rating Prediction
+# Gaming Review Rating Prediction
 *The predicition Model is trained with board games big data training set consisting of 15 million+ customer reviews*
 <br><br>
 Steps To run the app locally 
