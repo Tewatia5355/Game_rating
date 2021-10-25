@@ -8,12 +8,7 @@ Steps To run the app locally
 4. open a terminal in the same path 
 5. run app.py
 
-
-## Applicaiton Demo Video:
-- :globe_with_meridians: link > [Youtube](https://www.youtube.com/watch?v=yQJyGSp7OLc) 
-
 ## Live Applicaiton
-- :computer: link > [Live Application](https://ratingprediction-ml-nlp.herokuapp.com/)
+- :computer: link > [Live Application](https://game-rating-101803064.herokuapp.com/)
 
-## Detailed Project Report
-- :chart_with_upwards_trend: link > [Report](http://www.anoopscariah.me/nlp-project-report/)
+## Project 3 -> Data Science (Building innovative system)
